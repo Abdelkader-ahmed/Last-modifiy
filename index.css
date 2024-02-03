@@ -346,8 +346,7 @@ main .sub-header {
       to right,
       rgba(0, 0, 0, 0.459),
       rgba(0, 0, 0, 0.39)
-    ),
-    url(/eduford_img/contect.jpg);
+    ),url(./image/banner2.jpg) ;
   background-position: center;
   background-size: cover;
   transition: 5s ease-in;
